@@ -1,3 +1,3 @@
 # Manage Landing Page
 
-> > Built with TailwindCSS using mobile-first approach.
+> > Built with TailwindCSS using utility-first approach.
